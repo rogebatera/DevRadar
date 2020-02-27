@@ -1,2 +1,2 @@
 # DevRadar
-Aplicação mobile, backend e web com React, React-Native e Node.
+Aplicação Web em React para o Sistema DevRadar
